@@ -1,0 +1,137 @@
+13-Mar-2023 09:07:33.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.73
+13-Mar-2023 09:07:33.263 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 27 2023 15:33:40 UTC
+13-Mar-2023 09:07:33.264 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.73.0
+13-Mar-2023 09:07:33.264 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+13-Mar-2023 09:07:33.264 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+13-Mar-2023 09:07:33.264 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Mar-2023 09:07:33.264 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_361\jre
+13-Mar-2023 09:07:33.264 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_361-b09
+13-Mar-2023 09:07:33.264 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Mar-2023 09:07:33.264 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat
+13-Mar-2023 09:07:33.265 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat
+13-Mar-2023 09:07:33.265 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\conf\logging.properties
+13-Mar-2023 09:07:33.265 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Mar-2023 09:07:33.265 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Mar-2023 09:07:33.266 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Mar-2023 09:07:33.266 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+13-Mar-2023 09:07:33.266 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat
+13-Mar-2023 09:07:33.266 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat
+13-Mar-2023 09:07:33.267 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\temp
+13-Mar-2023 09:07:33.270 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.36] using APR version [1.7.2].
+13-Mar-2023 09:07:33.270 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+13-Mar-2023 09:07:33.271 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+13-Mar-2023 09:07:33.277 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1t  7 Feb 2023]
+13-Mar-2023 09:07:33.663 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Mar-2023 09:07:33.688 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [602] milliseconds
+13-Mar-2023 09:07:33.716 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Mar-2023 09:07:33.717 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.73]
+13-Mar-2023 09:07:33.732 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\HRDashBoard.war]
+13-Mar-2023 09:07:36.360 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Mar-2023 09:07:36.595 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [101] milliseconds.
+13-Mar-2023 09:07:36.603 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'dispatcher'
+13-Mar-2023 09:07:37.595 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 992 ms
+13-Mar-2023 09:07:37.611 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\HRDashBoard.war] has finished in [3,879] ms
+13-Mar-2023 09:07:37.612 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\docs]
+13-Mar-2023 09:07:37.640 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\docs] has finished in [28] ms
+13-Mar-2023 09:07:37.641 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\examples]
+13-Mar-2023 09:07:37.982 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\examples] has finished in [340] ms
+13-Mar-2023 09:07:37.982 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\host-manager]
+13-Mar-2023 09:07:38.009 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\host-manager] has finished in [26] ms
+13-Mar-2023 09:07:38.009 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\manager]
+13-Mar-2023 09:07:38.034 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\manager] has finished in [25] ms
+13-Mar-2023 09:07:38.035 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\ROOT]
+13-Mar-2023 09:07:38.059 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\ROOT] has finished in [23] ms
+13-Mar-2023 09:07:38.062 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-Mar-2023 09:07:38.078 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4389] milliseconds
+13-Mar-2023 09:09:27.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.73
+13-Mar-2023 09:09:27.157 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 27 2023 15:33:40 UTC
+13-Mar-2023 09:09:27.157 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.73.0
+13-Mar-2023 09:09:27.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+13-Mar-2023 09:09:27.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+13-Mar-2023 09:09:27.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Mar-2023 09:09:27.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_361\jre
+13-Mar-2023 09:09:27.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_361-b09
+13-Mar-2023 09:09:27.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Mar-2023 09:09:27.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat
+13-Mar-2023 09:09:27.158 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat
+13-Mar-2023 09:09:27.159 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\conf\logging.properties
+13-Mar-2023 09:09:27.159 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Mar-2023 09:09:27.159 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Mar-2023 09:09:27.159 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Mar-2023 09:09:27.160 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+13-Mar-2023 09:09:27.160 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat
+13-Mar-2023 09:09:27.160 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat
+13-Mar-2023 09:09:27.161 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\temp
+13-Mar-2023 09:09:27.164 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.36] using APR version [1.7.2].
+13-Mar-2023 09:09:27.164 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+13-Mar-2023 09:09:27.165 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+13-Mar-2023 09:09:27.170 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1t  7 Feb 2023]
+13-Mar-2023 09:09:27.558 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Mar-2023 09:09:27.583 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [679] milliseconds
+13-Mar-2023 09:09:27.613 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Mar-2023 09:09:27.614 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.73]
+13-Mar-2023 09:09:27.629 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\HRDashBoard.war]
+13-Mar-2023 09:09:30.038 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Mar-2023 09:09:30.307 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [130] milliseconds.
+13-Mar-2023 09:09:30.314 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'dispatcher'
+13-Mar-2023 09:09:31.361 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 1046 ms
+13-Mar-2023 09:09:31.372 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\HRDashBoard.war] has finished in [3,743] ms
+13-Mar-2023 09:09:31.373 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\docs]
+13-Mar-2023 09:09:31.396 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\docs] has finished in [23] ms
+13-Mar-2023 09:09:31.397 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\examples]
+13-Mar-2023 09:09:31.655 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\examples] has finished in [258] ms
+13-Mar-2023 09:09:31.656 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\host-manager]
+13-Mar-2023 09:09:31.682 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\host-manager] has finished in [26] ms
+13-Mar-2023 09:09:31.683 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\manager]
+13-Mar-2023 09:09:31.710 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\manager] has finished in [26] ms
+13-Mar-2023 09:09:31.710 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\ROOT]
+13-Mar-2023 09:09:31.729 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\ROOT] has finished in [19] ms
+13-Mar-2023 09:09:31.735 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-Mar-2023 09:09:31.755 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4170] milliseconds
+13-Mar-2023 18:17:15.998 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.73
+13-Mar-2023 18:17:16.000 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 27 2023 15:33:40 UTC
+13-Mar-2023 18:17:16.002 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.73.0
+13-Mar-2023 18:17:16.002 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+13-Mar-2023 18:17:16.002 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+13-Mar-2023 18:17:16.002 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+13-Mar-2023 18:17:16.002 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_361\jre
+13-Mar-2023 18:17:16.002 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_361-b09
+13-Mar-2023 18:17:16.003 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+13-Mar-2023 18:17:16.003 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat
+13-Mar-2023 18:17:16.003 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat
+13-Mar-2023 18:17:16.003 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\conf\logging.properties
+13-Mar-2023 18:17:16.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+13-Mar-2023 18:17:16.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+13-Mar-2023 18:17:16.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+13-Mar-2023 18:17:16.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+13-Mar-2023 18:17:16.004 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat
+13-Mar-2023 18:17:16.005 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat
+13-Mar-2023 18:17:16.006 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\temp
+13-Mar-2023 18:17:16.009 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.36] using APR version [1.7.2].
+13-Mar-2023 18:17:16.010 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+13-Mar-2023 18:17:16.011 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+13-Mar-2023 18:17:16.016 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1t  7 Feb 2023]
+13-Mar-2023 18:17:16.369 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+13-Mar-2023 18:17:16.390 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [584] milliseconds
+13-Mar-2023 18:17:16.424 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+13-Mar-2023 18:17:16.424 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.73]
+13-Mar-2023 18:17:16.444 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\HRDashBoard.war]
+13-Mar-2023 18:17:16.462 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\HRDashBoard] was found with a last modified time that did not match the associated WAR. It will be deleted.
+13-Mar-2023 18:17:19.330 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+13-Mar-2023 18:17:19.603 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [121] milliseconds.
+13-Mar-2023 18:17:19.612 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'dispatcher'
+13-Mar-2023 18:17:20.601 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 988 ms
+13-Mar-2023 18:17:20.617 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\HRDashBoard.war] has finished in [4,173] ms
+13-Mar-2023 18:17:20.620 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\docs]
+13-Mar-2023 18:17:20.653 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\docs] has finished in [33] ms
+13-Mar-2023 18:17:20.654 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\examples]
+13-Mar-2023 18:17:21.006 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\examples] has finished in [351] ms
+13-Mar-2023 18:17:21.006 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\host-manager]
+13-Mar-2023 18:17:21.036 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\host-manager] has finished in [30] ms
+13-Mar-2023 18:17:21.037 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\manager]
+13-Mar-2023 18:17:21.064 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\manager] has finished in [27] ms
+13-Mar-2023 18:17:21.065 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\ROOT]
+13-Mar-2023 18:17:21.086 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ABDULLA\Desktop\KLR_Project\Tomcat\webapps\ROOT] has finished in [20] ms
+13-Mar-2023 18:17:21.090 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+13-Mar-2023 18:17:21.110 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4719] milliseconds
+13-Mar-2023 18:18:30.258 WARNING [http-nio-8080-exec-5] org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.logException Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'experience' is not present]
